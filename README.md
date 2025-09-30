@@ -1,2 +1,2 @@
 # Recyclable-classifier
-Recyclable-classifier est une application Streamlit alimentée par un modèle de Deep Learning entraîné pour classer les objets comme recyclables ou non (organique). 
+Recyclable-classifier est une application Streamlit alimentée par un modèle de Deep Learning entraîné pour classer les objets comme recyclables ou non. Elle permet aux utilisateurs de tester visuellement la reconnaissance d’objets à partir d’images, avec une interface simple et intuitive. Le modèle a été entraîné sur Google Colab et sauvegardé au format .keras grâce à un système de checkpoints. Il s'agit d'un projet réalisé suite à la découverte de CNNs.
